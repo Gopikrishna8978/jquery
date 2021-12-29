@@ -1,0 +1,16 @@
+/* table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  } */
+
+table.TableAddDelete {
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table.TableAddDelete th,
+table.TableAddDelete td {
+    border: 1px solid black;
+    padding: 7px;
+}
